@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/yunxiuqiu1115/self-portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.14.1"
+    "fontsource-muli": "^3.0.5",
+    "node-sass": "^4.14.1",
+    "typeface-muli": "^1.1.3"
   }
 }

@@ -4,6 +4,11 @@ $show-home-image: true;
 $home-image: url(../img/background.jpg);
 $background-opacity: 0.3;
 
+@font-face {
+  font-family: "muliFamily";
+  src: url(../../node_modules/typeface-muli/files/muli-latin-200.woff);
+}
+
 @mixin easeOut {
   transition: all 0.5s ease-out;
 }

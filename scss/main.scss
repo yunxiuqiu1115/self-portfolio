@@ -11,7 +11,7 @@ body {
   color: #fff;
   height: 100%;
   margin: 0;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "muliFamily";
   line-height: 1.5;
 }
 
@@ -24,6 +24,7 @@ h3 {
 
   &.lg-heading {
     font-size: 6rem;
+    font-weight: 800;
   }
 
   &.sm-heading {
