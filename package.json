@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Personal Website",
   "main": "index.js",
+  "homepage": "https://yunxiuqiu1115.github.io/self-portfolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   "homepage": "https://github.com/yunxiuqiu1115/self-portfolio#readme",
   "dependencies": {
     "fontsource-muli": "^3.0.5",
+    "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1",
     "typeface-muli": "^1.1.3"
   }
