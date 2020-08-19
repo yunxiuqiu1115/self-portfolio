@@ -193,7 +193,7 @@ main {
     background: #fbc8b5;
     padding: 0.5rem;
     border-bottom: #ffff99 5px solid;
-    text-align: justify; }
+    text-align: left; }
 
 .projects {
   display: grid;
