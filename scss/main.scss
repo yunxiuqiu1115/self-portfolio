@@ -114,6 +114,7 @@ main {
     background: lighten($about-color, 5);
     padding: 0.5rem;
     border-bottom: $secondary-color 5px solid;
+    text-align: justify;
   }
 }
 
