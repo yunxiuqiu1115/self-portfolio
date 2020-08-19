@@ -51,7 +51,7 @@
     .menu-nav.show {
       transform: translate3d(0, 0, 0); }
   .menu-branding {
-    background: #fff;
+    background: url(../img/bodian2.jpeg);
     transform: translate3d(0, 100%, 0);
     transition: all 0.5s ease-out; }
     .menu-branding.show {
@@ -192,7 +192,8 @@ main {
   .about-info .job {
     background: #fbc8b5;
     padding: 0.5rem;
-    border-bottom: #ffff99 5px solid; }
+    border-bottom: #ffff99 5px solid;
+    text-align: justify; }
 
 .projects {
   display: grid;
@@ -276,6 +277,8 @@ main {
     align-items: center;
     text-align: center; }
     main .lg-heading {
+      text-align: center;
+      font-size: 40px;
       line-height: 1;
       margin-bottom: 1rem; }
   ul.menu-nav,
@@ -292,9 +295,10 @@ main {
     font-size: 24px; }
   .menu-branding {
     height: 25vh;
-    transform: translate3d(100%, 0, 0); }
+    transform: translate3d(100%, 0, 0);
+    background: #000; }
     .menu-branding .portrait {
-      background: url("../img/portrait-xs.jpg");
+      background: url("../img/portrait.jpg");
       width: 150px;
       height: 150px; }
   .about-info {
@@ -306,5 +310,21 @@ main {
 @media screen and (max-width: 500px) {
   main#home h1 {
     margin-top: 10vh; }
+  main {
+    align-items: center;
+    text-align: center; }
+    main .lg-heading {
+      text-align: center;
+      font-size: 40px;
+      line-height: 1;
+      margin-bottom: 1rem; }
+  .menu-branding {
+    height: 25vh;
+    transform: translate3d(100%, 0, 0);
+    background: #000; }
+    .menu-branding .portrait {
+      background: url("../img/portrait.jpg");
+      width: 150px;
+      height: 150px; }
   .projects {
     grid-template-columns: 1fr; } }
