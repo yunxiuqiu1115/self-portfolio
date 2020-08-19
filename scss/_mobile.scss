@@ -19,6 +19,7 @@
     text-align: center;
 
     .lg-heading {
+      font-size: 40px;
       line-height: 1;
       margin-bottom: 1rem;
     }
@@ -44,9 +45,8 @@
   .menu-branding {
     height: 25vh;
     transform: translate3d(100%, 0, 0);
-    background: $primary-color;
     .portrait {
-      background: url("../img/portrait-xs.jpg");
+      background: url("../img/portrait.jpg");
       width: 150px;
       height: 150px;
     }
