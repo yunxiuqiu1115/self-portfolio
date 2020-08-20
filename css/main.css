@@ -19,7 +19,8 @@
     background: #fff;
     transition: all 0.5s ease-out; }
   .menu-btn.close {
-    transform: rotate(180deg); }
+    transform: rotate(180deg);
+    background: rgba(204, 204, 204, 0); }
     .menu-btn.close .btn-line:nth-child(1) {
       transform: rotate(45deg) translate(5px, 5px); }
     .menu-btn.close .btn-line:nth-child(2) {
