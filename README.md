@@ -4,6 +4,8 @@ Click [here](https://yunxiuqiu1115.github.io/self-portfolio/index.html) to see m
 
 ![Mainpage](./dist/img/index.png)
 
+![Menu](./dist/img/menu.png)
+
 ![Aboutme](./dist/img/aboutme.png)
 
 ![Mywork](./dist/img/mywork.png)
