@@ -69,7 +69,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/portrait-ssm2.jpg");
+      background: url("../img/portrait-ssm2.png");
       border-radius: 50%;
       border: solid 3px #fab69d; }
   .menu .nav-item {
@@ -339,7 +339,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/portrait-xs2.jpg");
+      background: url("../img/portrait-xs2.png");
       width: 150px;
       height: 150px; }
   .about-info {
@@ -363,7 +363,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/portrait-xs2.jpg");
+      background: url("../img/portrait-xs2.png");
       width: 150px;
       height: 150px; }
   .projects {
