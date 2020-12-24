@@ -61,7 +61,7 @@
     .menu-nav.show {
       transform: translate3d(0, 0, 0); }
   .menu-branding {
-    background: url(../img/bodian2.jpeg);
+    background: url(../img/bodian3.png);
     transform: translate3d(0, 100%, 0);
     transition: all 0.5s ease-out; }
     .menu-branding.show {
